@@ -1,0 +1,53 @@
+/* index proj.CSS  2018 by Huseein elnabarawy */
+#header_mn{
+	background-color:#200025;
+}
+#head_bk_img{
+	background-image: url(../images/web2_08.png);
+	width:828px;
+	height:87px;
+	margin: 0px auto 0px auto ;
+
+}
+#hed_mn1 ul{
+  list-style:none;
+  padding:0;
+  margin:0;
+}
+#hed_mn1{
+	float:left;
+	padding: 0px 0px 0px 0px;
+	
+}
+#hed_mn1 ul li {
+	float:left;
+	padding:0px 0px 0px 0px ;
+}
+#hed_mn1 ul li a{
+	display:block;
+	padding:5px 15px 0px 10px ;
+	text-decoration:none;
+	font-size:20px;
+	color:#f5f535;
+	font-family:arial;
+}
+#hed_mn1 ul li a:hover{
+  background:#c0c0c0;
+  color:#fff;
+}
+
+/* social icon nav */
+
+#hed_mn2 ul{
+  list-style:none;
+  padding:40px 0px 0px 65px ;
+  margin:0;
+}
+#hed_mn2 ul li {
+	float:left;
+	padding:5px 20px 0px 25px ;
+}
+#hed_mn2 ul li img{
+	width:40px;
+	height:40px;
+}
